@@ -11,7 +11,7 @@ basedir = os.path.dirname(os.path.abspath(__file__))
 
 def interact_model(
     raw_text=None,
-    model_name='117M',
+    model_name='george1',
     seed=None,
     nsamples=1,
     batch_size=1,
